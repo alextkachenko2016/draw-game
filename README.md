@@ -29,8 +29,6 @@ The game is designed using Html, CSS, and javascript.
   - Slice `grid size` will change the resolution of the screen (# of pixels). Depend on what you want
   - You can customize pencil and background color by pressing `pen color` & `blackground color`
   - If you want to remove grid line, just click `Remove Grid Lines` button
-- 
-- 
 
 <br>
 
